@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20JBum's%20Github!)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JBum's%20Github!)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barem21&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barem21&layout=compact)
