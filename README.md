@@ -3,9 +3,9 @@
   Welcome to JBum's Github!
 </div>
 
-<div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barem21&show_icons=true&theme=radical)
-</div>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barem21&show_icons=true&theme=transparent)
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
