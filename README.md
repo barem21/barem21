@@ -40,8 +40,8 @@
 <h3>React Project</h3>
 <div>
   - 포트폴리오 : <a href="http://barem210.cafe24.com" target="_blank">http://barem210.cafe24.com</a><br />
-  - 1차 프로젝트 MANDA : <a href="[http://barem210.cafe24.com](https://verbose-stag-fa8.notion.site/1-MANDA-1763ba5c4d8180c7b7fde4d92ef63a83)" target="_blank">https://verbose-stag-fa8.notion.site/1-MANDA-1763ba5c4d8180c7b7fde4d92ef63a83</a><br />
-  - 2~3차 프로젝트 AcaMatch : <a href="[http://barem210.cafe24.com](https://verbose-stag-fa8.notion.site/2-AcaMatch-1743ba5c4d818028a095eaf719d9566c)" target="_blank">https://verbose-stag-fa8.notion.site/2-AcaMatch-1743ba5c4d818028a095eaf719d9566c</a>
+  - 1차 프로젝트 MANDA : <a href="https://verbose-stag-fa8.notion.site/1-MANDA-1763ba5c4d8180c7b7fde4d92ef63a83" target="_blank">https://verbose-stag-fa8.notion.site/1-MANDA-1763ba5c4d8180c7b7fde4d92ef63a83</a><br />
+  - 2~3차 프로젝트 AcaMatch : <a href="https://verbose-stag-fa8.notion.site/2-AcaMatch-1743ba5c4d818028a095eaf719d9566c" target="_blank">https://verbose-stag-fa8.notion.site/2-AcaMatch-1743ba5c4d818028a095eaf719d9566c</a>
 </div>
 
 <h3>📫 Contact 📫</h3>
