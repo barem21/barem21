@@ -39,6 +39,7 @@
 
 <h3>React Project</h3>
 <div>
+  - 포트폴리오 : http://barem210.cafe24.com<br />
   - 1차 프로젝트 MANDA : https://verbose-stag-fa8.notion.site/1-MANDA-1763ba5c4d8180c7b7fde4d92ef63a83<br />
   - 2~3차 프로젝트 AcaMatch : https://verbose-stag-fa8.notion.site/2-AcaMatch-1743ba5c4d818028a095eaf719d9566c
 </div>
