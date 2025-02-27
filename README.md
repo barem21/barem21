@@ -30,6 +30,7 @@
 <h3>📚 Studying 📚</h3>
 <div>
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Next.js-222222?style=for-the-badge&logo=Next.js&logoColor=white" />&nbsp
 </div>
 
 <br>
