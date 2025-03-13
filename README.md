@@ -30,6 +30,7 @@
 <div>
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Next.js-222222?style=for-the-badge&logo=Next.js&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />&nbsp
 </div>
 
 <br>
